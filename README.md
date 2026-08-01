@@ -26,7 +26,10 @@ This is especially useful when keycaps are removed for cleaning, lubrication, sw
 | File / Folder | Description |
 |---------------|-------------|
 | **[MasterKeys Pro L.png](MasterKeys%20Pro%20L.png)** | Full keyboard photo with **US ANSI key layout** – ideal reference when keycaps are off |
-| **[Imgur Album Masterkeys Pro L Disassembly/](Imgur%20Album%20Masterkeys%20Pro%20L%20Disassembly/)** | Step-by-step disassembly photo set |
+| **[Imgur Album Masterkeys Pro L Disassembly/](Imgur%20Album%20Masterkeys%20Pro%20L%20Disassembly/)** | Step-by-step disassembly photo set (sourced from the original gallery below) |
+
+**Original disassembly gallery (credit):**  
+https://imgur.com/gallery/masterkeys-pro-l-disassembly-uvFRb
 
 ### White LED model
 | File | Description |
@@ -92,6 +95,7 @@ This public archive collects the manuals, product sheets, firmware, Cooler Maste
 - [White LED Firmware v1.08](masterkeys-pro-l-white-v1.08.exe)
 - [SDK Document](SDK%20Document.pdf)
 - [Disassembly Photos](Imgur%20Album%20Masterkeys%20Pro%20L%20Disassembly/)
+- [Original Imgur gallery](https://imgur.com/gallery/masterkeys-pro-l-disassembly-uvFRb)
 
 ---
 
